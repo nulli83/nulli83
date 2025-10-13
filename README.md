@@ -39,6 +39,8 @@
 - Bash scripting  
 - Python fundamentals  
 - Basics of cybersecurity
+- C# fundamentals
+- Windows system administration 
 
 
 ✨ Thanks for visiting my profile! ✨
