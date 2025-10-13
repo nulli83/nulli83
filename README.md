@@ -1,7 +1,7 @@
 # 👋 Hi, I'm nulli83
 
 🔹 From **Sweden**, currently studying at **NTI Gymnasiet**  
-🔹 Program: **Electronics & Energy**  
+🔹 Program: **IT**  
 🔹 Focus areas: **Cybersecurity**, **Linux** and **Coding**  
 🔹 Programming: **Python (beginner level)**  
 
