@@ -3,7 +3,7 @@
 🔹 From **Sweden**, currently studying at **NTI Gymnasiet**  
 🔹 Program: **IT**  
 🔹 Focus areas: **Cybersecurity**, **Linux** and **Coding**  
-🔹 Programming: **C# graphical**  
+🔹 Programming: **Python, Kotlin & Web programming**  
 
 ---
 
